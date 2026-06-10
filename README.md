@@ -56,6 +56,6 @@ Variance Retained:
 90.03%
 GitHub Repository
 
-Insert your repository URL here:
+Git URL:
 
 https://github.com/codestantceasar/PCA-Formative-Assignment
