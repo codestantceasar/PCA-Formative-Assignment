@@ -54,8 +54,6 @@ Selected Principal Components:
 Variance Retained:
 
 90.03%
-GitHub Repository
 
-Git URL:
+GitHub Repository: https://github.com/codestantceasar/PCA-Formative-Assignment
 
-https://github.com/codestantceasar/PCA-Formative-Assignment
