@@ -1,7 +1,8 @@
 PCA Formative Assignment
 Student Information
 
-Name: Constantine Akas
+Name: Constantine Akas, Jotham Rutijana Jabo
+Jotham Rutijana Jabo 
 Course: Advanced Linear Algebra
 Assignment: Principal Component Analysis (PCA) Formative Assignment
 
